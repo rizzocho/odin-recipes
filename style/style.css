@@ -1,0 +1,27 @@
+h1  {
+  background-color: aqua;
+  text-align: center;
+}
+
+h2,
+p,
+li  {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.optional {
+  color:steelblue;
+}
+
+#emphasized {
+  font-style: italic;
+}
+
+#thick  {
+  font-weight: 600;
+}
+
+li.optional  {
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
+}
