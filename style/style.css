@@ -7,13 +7,16 @@ h2,
 p,
 li  {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 4px
 }
 
 .optional {
   color:steelblue;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 18px;
 }
 
-#emphasized {
+.emphasized {
   font-style: italic;
 }
 
@@ -22,6 +25,18 @@ li  {
 }
 
 li.optional  {
-  font-family:'Times New Roman', Times, serif;
-  font-size: 18px;
+  
+}
+
+p {
+  margin-left: 40px;
+}
+
+h2  {
+  margin-left: 23px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
 }
